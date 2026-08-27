@@ -124,7 +124,7 @@ To provision a fresh Bluefin DX machine using this blueprint:
 
 ```bash
 # 1. Clone repository
-git clone [https://github.com/muehehe33333/mybluefin-dotfiles.git](https://github.com/muehehe33333/mybluefin-dotfiles.git)
+git clone https://github.com/muehehe33333/mybluefin-dotfiles.git
 cd mybluefin-dotfiles
 
 # 2. Run automated bootstrap

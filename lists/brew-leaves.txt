@@ -1,0 +1,12 @@
+chezmoi
+fzf
+gh
+git
+lazydocker
+lazygit
+lzip
+ollama
+python@3.14
+valkyrie00/bbrew/bbrew
+zellij
+zoxide

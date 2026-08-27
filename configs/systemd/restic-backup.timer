@@ -1,0 +1,10 @@
+[Unit]
+Description=Daily Schedule for Automated Restic Backup
+
+[Timer]
+OnCalendar=daily
+Persistent=true
+RandomizedDelaySec=5m
+
+[Install]
+WantedBy=timers.target

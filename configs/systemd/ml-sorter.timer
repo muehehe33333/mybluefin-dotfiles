@@ -1,0 +1,10 @@
+[Unit]
+Description=Weekly Micro-ML File Sorter Timer
+
+[Timer]
+OnCalendar=weekly
+Persistent=true
+RandomizedDelaySec=10m
+
+[Install]
+WantedBy=timers.target

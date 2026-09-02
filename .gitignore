@@ -1,0 +1,8 @@
+# Python & ML Artifacts
+*.joblib
+__pycache__/
+.venv/
+.uv/
+
+# OS Generated Files
+.DS_Store
